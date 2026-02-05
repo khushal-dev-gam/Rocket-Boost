@@ -66,5 +66,5 @@
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj",
     },
-    "dotnet.defaultSolution": "rocket boost.sln"
+    "dotnet.defaultSolution": "ROCKET boost 2.0.sln"
 }
